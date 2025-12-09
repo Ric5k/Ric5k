@@ -1,6 +1,9 @@
 ## Hi! I'm Ric5k
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Ric5k&show_icons=true&locale=en&layout=compact)
+
+
+
 ## Social-Links!
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/Ric5k)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/rickdevyo)
