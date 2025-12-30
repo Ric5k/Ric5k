@@ -3,8 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Ric5k&show_icons=true&locale=en&layout=compact)
 
 ## Tech-Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,mysql,postman](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=ts,mysql,postman)](https://skillicons.dev)
 
 
 ## Social-Links!
