@@ -1,4 +1,2 @@
 
-## Tech-Stack
-
-## Social-Links!
+## Sound-Tech lover
